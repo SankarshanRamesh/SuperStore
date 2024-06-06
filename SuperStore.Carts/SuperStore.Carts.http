@@ -1,0 +1,6 @@
+@SuperStore.Carts_HostAddress = http://localhost:5188
+
+GET {{SuperStore.Carts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

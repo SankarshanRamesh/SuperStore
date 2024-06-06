@@ -1,0 +1,6 @@
+@SuperStore.Funds_HostAddress = http://localhost:5031
+
+GET {{SuperStore.Funds_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
